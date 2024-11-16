@@ -1,4 +1,4 @@
-# courses
+# Added initial README with course codes
 info6136 Data Technologies 1
 info6110 Operating System 1
 info6107 Interface technologies
